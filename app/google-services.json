@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937652129409",
+    "project_id": "maternidade-d9c6e",
+    "storage_bucket": "maternidade-d9c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937652129409:android:1f006595dc889a28db0780",
+        "android_client_info": {
+          "package_name": "br.com.dlweb.maternidade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937652129409-l4fvulclf6fl1uhe801d18cgejbrq95r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5iZRLG4PULJ8Ag8WiK5O-F3iMwJnbyGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937652129409-l4fvulclf6fl1uhe801d18cgejbrq95r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
